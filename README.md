@@ -74,4 +74,4 @@ Ambil screenshot terminal yang menampilkan hasil tersebut, kemudian:
 
 ## Hasil Output
 Berikut adalah contoh hasil eksekusi program:
-![Contoh Output](output.png)
+
