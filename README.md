@@ -75,3 +75,4 @@ Ambil screenshot terminal yang menampilkan hasil tersebut, kemudian:
 ## Hasil Output
 Berikut adalah contoh hasil eksekusi program:
 
+![](<Output program_20250101_233404_782_4.jpg>)
