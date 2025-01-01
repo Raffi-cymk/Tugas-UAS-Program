@@ -15,17 +15,17 @@ Class Process: Untuk memproses data, termasuk menambah siswa dan memvalidasi inp
 *Class Data:*
 
 Menyimpan data siswa berupa nama dan nilai.
-Fungsi add_student digunakan untuk menambahkan data siswa ke dalam daftar.
+Fungsi `add_student` digunakan untuk menambahkan data siswa ke dalam daftar.
 
 *Class View:*
 
-Fungsi display_table menampilkan data siswa dalam format tabel menggunakan library *PrettyTable*.
-Fungsi display_message digunakan untuk menampilkan pesan singkat
+Fungsi `display_table` menampilkan data siswa dalam format tabel menggunakan library **PrettyTable**.
+Fungsi `display_message` digunakan untuk menampilkan pesan singkat
 
 *Class Process:*
 
 Mengelola proses seperti menambahkan siswa dan menampilkan data.
-Fungsi add_student dilengkapi validasi input dengan *try-except*.
+Fungsi `add_student` dilengkapi validasi input dengan **try-except**.
 
 *Main Program:*
 
@@ -33,7 +33,7 @@ Mengimplementasikan menu interaktif untuk pengguna.
 
 Cara Menjalankan:
 
-1. Simpan kode dalam file Python (misalnya student_management.py).
+1. Simpan kode dalam file Python (misalnya `student_management.py`).
 
 2. Jalankan file tersebut menggunakan terminal/command prompt.
 
