@@ -76,3 +76,35 @@ Ambil screenshot terminal yang menampilkan hasil tersebut, kemudian:
 Berikut adalah contoh hasil eksekusi program:
 
 ![](<Output program_20250101_233404_782_4.jpg>)
+
+---
+
+2. Tambahkan Penjelasan Hasil Program
+
+Tambahkan penjelasan tentang bagaimana program bekerja, misalnya:
+
+## Cara Kerja Program
+1. Program memiliki tiga menu utama:
+   - Tambah data mahasiswa.
+   - Tampilkan data mahasiswa.
+   - Keluar dari program.
+
+2. Pengguna memasukkan nama dan nilai mahasiswa. Program akan memvalidasi input sebelum menyimpan data.
+
+3. Data mahasiswa ditampilkan dalam tabel.
+
+### Contoh Output
+Berikut adalah contoh eksekusi program:
+- **Menambahkan Data Mahasiswa**
+  ```plaintext
+  Enter student name: Alice
+  Enter student score (0-100): 85
+  Student added successfully!
+
+Menampilkan Data Mahasiswa
+
++----+-------+-------+
+| No | Name  | Score |
++----+-------+-------+
+|  1 | Alice |   85  |
++----+-------+-------+
