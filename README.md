@@ -38,3 +38,40 @@ Cara Menjalankan:
 2. Jalankan file tersebut menggunakan terminal/command prompt.
 
 3. Pilih opsi dari menu untuk menambahkan atau menampilkan data siswa.
+
+---
+
+*1. Tambahkan Screenshot Hasil Eksekusi*
+
+Jalankan programmu di terminal, seperti contoh output berikut:
+
+Menu:
+1. Add Student
+2. Show Students
+3. Exit
+Choose an option: 1
+Enter student name: John
+Enter student score (0-100): 90
+Student added successfully!
+
+Menu:
+1. Add Student
+2. Show Students
+3. Exit
+Choose an option: 2
++----+-------+-------+
+| No | Name  | Score |
++----+-------+-------+
+|  1 | John  |   90  |
++----+-------+-------+
+
+Ambil screenshot terminal yang menampilkan hasil tersebut, kemudian:
+
+1. Simpan file gambar (misalnya output.png) ke repositorimu.
+
+
+2. Perbarui file README.md dengan menambahkan gambar, seperti ini:
+
+## Hasil Output
+Berikut adalah contoh hasil eksekusi program:
+![Contoh Output](output.png)
