@@ -79,7 +79,7 @@ Berikut adalah contoh hasil eksekusi program:
 
 ---
 
-2. Tambahkan Penjelasan Hasil Program
+*2. Tambahkan Penjelasan Hasil Program*
 
 Tambahkan penjelasan tentang bagaimana program bekerja, misalnya:
 
