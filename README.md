@@ -69,8 +69,7 @@ Ambil screenshot terminal yang menampilkan hasil tersebut, kemudian:
 
 1. Simpan file gambar (misalnya output.png) ke repositorimu.
 
-
-2. Perbarui file README.md dengan menambahkan gambar, seperti ini:
+2. Menambahkan gambar, seperti ini:
 
 ## Hasil Output
 Berikut adalah contoh hasil eksekusi program:
