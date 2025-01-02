@@ -11,6 +11,8 @@ Class Process: Untuk memproses data, termasuk menambah siswa dan memvalidasi inp
 
 ---
 
+# video dokumentasi: https://youtu.be/E9LWGPOhafY?si=VCzWPRUEfC0n-uaj
+
 # Penjelasan
 *Class Data:*
 
